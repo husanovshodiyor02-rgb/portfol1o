@@ -193,7 +193,7 @@ function App() {
           va <span className="font-bold text-white">Next.js</span>.
           <div className="mt-12">
             <a
-              href="#projects"
+              href="#loyihalar"
               className="px-8 py-3 bg-emerald-500 text-slate-900 font-bold rounded-lg hover:bg-emerald-400 transition shadow-[0_0_20px_rgba(16,185,129,0.5)]"
             >
               Ishlarimni ko'rish
