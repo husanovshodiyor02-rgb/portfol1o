@@ -158,7 +158,7 @@ function App() {
 
       {/* HERO SECTION */}
       <section
-        id="home"
+        id="asosiy"
         className="min-h-screen flex items-center justify-center pt-16 px-4 relative overflow-hidden"
       >
         {/* Background Glow Effect */}
@@ -203,7 +203,7 @@ function App() {
       </section>
 
       {/* ABOUT & SKILLS SECTION */}
-      <section id="about" className="py-20 bg-slate-800/50">
+      <section id="men haqimda" className="py-20 bg-slate-800/50">
         <div className="max-w-6xl mx-auto px-4">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-16">
             <span className="border-b-4 border-emerald-500 pb-2">
@@ -228,7 +228,7 @@ function App() {
       </section>
 
       {/* PROJECTS SECTION */}
-      <section id="projects" className="py-20 px-4 max-w-7xl mx-auto">
+      <section id="loyihalar" className="py-20 px-4 max-w-7xl mx-auto">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-4">
           Eng so'nggi ishlarim
         </h2>
@@ -301,7 +301,7 @@ function App() {
 
       {/* FOOTER */}
       <footer
-        id="contact"
+        id="aloqa"
         className="bg-slate-950 py-12 border-t border-slate-800 text-center"
       >
         <h2 className="text-2xl font-bold text-white mb-6">Aloqaga chiqing</h2>
