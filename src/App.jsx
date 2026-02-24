@@ -316,9 +316,7 @@ function App() {
           Xabar yozish
         </a>
 
-        <div className="mt-12 text-slate-600 text-sm">
-          &copy; 2024 {personalInfo.name}. Barcha huquqlar himoyalangan.
-        </div>
+        
       </footer>
     </div>
   );
